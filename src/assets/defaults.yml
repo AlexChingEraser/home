@@ -7,9 +7,6 @@ subtitle: "there will display some atricles I had learn about FE"
 header: true
 footer: false
 
-proxy:
-  useCredentials: false # send cookies & authorization headers when fetching service specific data. Set to `true` if you use an authentication proxy. Can be overrided on service level. 
-
 columns: 3
 connectivityCheck: true
 
